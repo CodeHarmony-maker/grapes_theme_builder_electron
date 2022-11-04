@@ -57,7 +57,6 @@
       "node_modules"
     ]
   },
-  "license": "MIT",
   "devDependencies": {
     "asar": "^0.14.6",
     "electron": "^11.5.0",
